@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+pyecharts
+streamlit
+pytest
+nbformat
+requests

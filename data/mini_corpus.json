@@ -1,0 +1,850 @@
+[
+  {
+    "id": "D01",
+    "title": "Hand washing prevents infection",
+    "text": "Washing your hands with soap and water for at least 20 seconds is one of the most effective ways to remove germs and prevent the spread of infectious illnesses. When soap and water are not available, alcohol-based hand sanitizers containing at least 60% alcohol are a reasonable alternative.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/handwashing/when-how-handwashing.html",
+    "topic": "hygiene"
+  },
+  {
+    "id": "D02",
+    "title": "Common cold: symptoms and self-care",
+    "text": "The common cold is a viral infection of the upper respiratory tract. Symptoms typically appear one to three days after exposure and include runny nose, sneezing, sore throat, and mild cough. Most adults recover within seven to ten days. Rest, fluids, and saline nasal spray can help.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/common-cold/symptoms-causes/syc-20351605",
+    "topic": "respiratory"
+  },
+  {
+    "id": "D03",
+    "title": "Seasonal influenza vaccination",
+    "text": "Annual influenza vaccination is recommended for everyone aged six months and older, with rare medical exceptions. Vaccination is the single best tool to reduce the risk of severe flu illness, hospitalization, and death.",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)",
+    "topic": "vaccines"
+  },
+  {
+    "id": "D04",
+    "title": "High blood pressure overview",
+    "text": "Hypertension, or high blood pressure, is a chronic condition in which the long-term force of blood against artery walls is consistently elevated. Over time it can cause heart disease, stroke, and kidney damage. Lifestyle changes such as reducing sodium, regular activity, and prescribed medications can manage it.",
+    "source": "NIH",
+    "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure",
+    "topic": "cardiovascular"
+  },
+  {
+    "id": "D05",
+    "title": "Type 2 diabetes basics",
+    "text": "Type 2 diabetes is a chronic condition in which the body either resists the effects of insulin or does not produce enough of it. Risk factors include excess weight, family history, age, and a sedentary lifestyle. Healthy eating, regular exercise, weight management, and medication can help control blood sugar.",
+    "source": "NIH",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes",
+    "topic": "endocrine"
+  },
+  {
+    "id": "D06",
+    "title": "Sleep needs for teens and adults",
+    "text": "Teenagers generally need 8 to 10 hours of sleep per night, while most adults need 7 or more hours. Good sleep hygiene includes a consistent schedule, a cool dark bedroom, limiting caffeine after midday, and avoiding screens for at least 30 minutes before bed.",
+    "source": "NIH",
+    "url": "https://www.nhlbi.nih.gov/health/sleep/how-much-sleep",
+    "topic": "lifestyle"
+  },
+  {
+    "id": "D07",
+    "title": "Recognizing heart attack symptoms",
+    "text": "Common heart attack symptoms include chest pain or pressure, pain or discomfort radiating to the jaw, neck, or left arm, shortness of breath, cold sweat, lightheadedness, and nausea. Symptoms can be subtler in women. Call 911 immediately if you suspect a heart attack.",
+    "source": "AHA",
+    "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+    "topic": "cardiovascular"
+  },
+  {
+    "id": "D08",
+    "title": "Concussion: what to watch for",
+    "text": "A concussion is a mild traumatic brain injury caused by a bump or blow to the head. Common symptoms include headache, confusion, dizziness, nausea, and sensitivity to light or noise. Rest and avoid screens or strenuous activity; see a clinician for evaluation, and seek emergency care for worsening symptoms.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/headsup/basics/concussion_symptoms.html",
+    "topic": "neurology"
+  },
+  {
+    "id": "D09",
+    "title": "Building a balanced plate",
+    "text": "A healthy plate is roughly half vegetables and fruits, a quarter whole grains, and a quarter lean protein. Choose healthy oils such as olive or canola, limit added sugar and red or processed meat, and drink water instead of sugary beverages.",
+    "source": "NIH",
+    "url": "https://www.nhlbi.nih.gov/health/educational/healthdisp/pdf/tipsheets/Heart-Healthy-Eating.pdf",
+    "topic": "nutrition"
+  },
+  {
+    "id": "D10",
+    "title": "Depression and anxiety are treatable",
+    "text": "Depression and anxiety are common and treatable mental health conditions. Talking to a trusted adult, a school counselor, or a mental health professional is a good first step. In the United States, the 988 Suicide and Crisis Lifeline is available 24 hours a day, 7 days a week by call or text.",
+    "source": "NIH",
+    "url": "https://www.nimh.nih.gov/health/topics/depression",
+    "topic": "mental-health"
+  },
+  {
+    "id": "D11",
+    "title": "Sun safety and skin cancer prevention",
+    "text": "Sun protection lowers the risk of skin cancer and premature skin aging. Use broad-spectrum sunscreen with SPF 30 or higher, reapply every two hours and after swimming, wear protective clothing and a wide-brimmed hat, and seek shade between 10 a.m. and 4 p.m.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/cancer/skin/basic_info/prevention.htm",
+    "topic": "prevention"
+  },
+  {
+    "id": "D12",
+    "title": "Physical activity guidelines",
+    "text": "Adults benefit from at least 150 minutes per week of moderate-intensity aerobic activity, plus muscle-strengthening activities on 2 or more days. Children and adolescents should aim for at least 60 minutes of moderate-to-vigorous activity every day.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/physicalactivity/basics/adults/index.htm",
+    "topic": "lifestyle"
+  },
+  {
+    "id": "D13",
+    "title": "Asthma overview and self-management",
+    "text": "Asthma is a chronic condition in which the airways narrow and swell, making breathing difficult. Common triggers include allergens, exercise, cold air, and respiratory infections. People with asthma should follow an asthma action plan, take controller medications as prescribed, and seek emergency care for severe attacks.",
+    "source": "NIH",
+    "url": "https://www.nhlbi.nih.gov/health/asthma",
+    "topic": "respiratory"
+  },
+  {
+    "id": "D14",
+    "title": "Stroke warning signs (FAST)",
+    "text": "Recognize a stroke with FAST: Face drooping, Arm weakness, Speech difficulty, Time to call 911. Other warning signs include sudden numbness, confusion, trouble seeing, severe headache, or trouble walking. Every minute matters; do not wait, call 911.",
+    "source": "AHA",
+    "url": "https://www.stroke.org/en/about-stroke/stroke-symptoms",
+    "topic": "cardiovascular"
+  },
+  {
+    "id": "D15",
+    "title": "Childhood vaccination schedule",
+    "text": "Routine childhood vaccinations protect against serious diseases including measles, mumps, rubella, polio, pertussis, and varicella. Vaccines are safe and recommended on a schedule from birth through adolescence. Talk to your pediatrician about catch-up doses if any are missed.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/vaccines/parents/why-vaccinate/index.html",
+    "topic": "vaccines"
+  },
+  {
+    "id": "D16",
+    "title": "Cholesterol and heart health",
+    "text": "High levels of LDL ('bad') cholesterol can build up in the walls of arteries and raise the risk of heart attack and stroke. A heart-healthy diet, regular exercise, not smoking, and prescribed medications such as statins can lower LDL.",
+    "source": "AHA",
+    "url": "https://www.heart.org/en/health-topics/cholesterol",
+    "topic": "cardiovascular"
+  },
+  {
+    "id": "D17",
+    "title": "Dehydration: prevention and signs",
+    "text": "Dehydration happens when the body loses more fluids than it takes in. Early signs include dry mouth, dark urine, headache, and fatigue. Drink water regularly throughout the day, especially in heat or during exercise, and consume electrolytes when you sweat heavily.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086",
+    "topic": "lifestyle"
+  },
+  {
+    "id": "D18",
+    "title": "Migraine self-management",
+    "text": "Migraines often cause throbbing headache, nausea, and sensitivity to light and sound. Common triggers include stress, missed meals, dehydration, and certain foods. Identifying triggers, regular sleep, hydration, and prescribed acute or preventive medications can reduce frequency and severity.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201",
+    "topic": "neurology"
+  },
+  {
+    "id": "D19",
+    "title": "COVID-19 prevention basics",
+    "text": "To reduce the risk of COVID-19, stay up to date on recommended vaccines, wash hands often, improve indoor ventilation, and consider masking in crowded indoor spaces during periods of high transmission. If you have symptoms, test and stay home from others.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html",
+    "topic": "respiratory"
+  },
+  {
+    "id": "D20",
+    "title": "Antibiotics: when they help and when they don't",
+    "text": "Antibiotics treat bacterial infections; they do not work against viruses such as colds or the flu. Taking antibiotics when they are not needed contributes to antibiotic resistance. Always take antibiotics exactly as prescribed and never share them.",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
+    "topic": "medications"
+  },
+  {
+    "id": "D21",
+    "title": "Anaphylaxis",
+    "text":"Anaphylaxis is a rapid, life‑threatening allergic reaction caused by exposure to triggers like foods, medications, insect stings, or latex. It leads to a sudden drop in blood pressure, airway swelling, and symptoms such as hives, trouble breathing, vomiting, and dizziness. Immediate treatment with epinephrine and emergency medical care is essential, as reactions can worsen or recur. Avoiding known allergens and carrying emergency medication helps reduce risk.",
+    "source": "Mayo Clinic",
+    "url":"https://www.mayoclinic.org/diseases-conditions/anaphylaxis/symptoms-causes/syc-20351468",
+    "topic":"allergy"
+  },
+  {
+    "id":"D22",
+    "title": "Heat exhaustion",
+    "text": "Heat exhaustion is an overheating condition marked by heavy sweating, weakness, dizziness, and a rapid pulse, often caused by high temperatures, humidity, or strenuous activity. Without prompt cooling and hydration, it can progress to heatstroke, a life‑threatening emergency.",
+    "source":"Mayo Clinic",
+    "url":"https://www.mayoclinic.org/diseases-conditions/heat-exhaustion/symptoms-causes/syc-20373250",
+    "topic":"heat"
+  },
+  {
+    "id":"D23",
+    "title": "Burns: First aid",
+    "text": "Common causes of burns at home include hot liquids, grease fires, and contact with hot surfaces, such as a stove or iron. Major burns require emergency care, including ensuring safety, checking breathing, removing tight items before swelling, loosely covering the area, elevating the burn, and monitoring for shock. Minor burns can be treated at home by cooling the area, removing tight items, covering with a loose bandage, using over‑the‑counter pain relievers, and applying moisturizing lotions as healing begins.",
+    "source":"Mayo Clinic",
+    "url":"https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649",
+    "topic":"physical injuries"
+  },
+  {
+    "id": "D24",
+    "title": "What is CPR?",
+    "text": "CPR is a lifesaving intervention used when the heart stops beating, and early action greatly improves survival. It emphasizes the Chain of Survival, high‑quality chest compressions, and the roles of Hands‑Only CPR, conventional CPR, and AED use. CPR steps generally include recognizing cardiac arrest, calling emergency services, beginning chest compressions at an adequate rate and depth, providing rescue breaths if trained, and using an AED as soon as it becomes available.",
+    "source": "AHA",
+    "url": "https://cpr.heart.org/en/resources/what-is-cpr",
+    "topic":"resuscitation"
+  },
+  {
+    "id":"D25",
+    "title":"Dietary fiber: Essential for a healthy diet",
+    "text": "Dietary fiber is a type of carbohydrate found in plant foods that the body cannot digest, and it plays a key role in digestive health, weight management, and lowering the risk of chronic diseases. Soluble fiber helps reduce cholesterol and stabilize blood sugar, while insoluble fiber supports regular bowel movements and prevents constipation. A high‑fiber diet is linked with improved heart health, better blood sugar control, healthier gut bacteria, and reduced risk of colorectal conditions. Recommended daily intake varies by age and sex, and fiber is best obtained from whole grains, fruits, vegetables, legumes, nuts, and seeds. Gradually increasing fiber and drinking adequate water helps avoid gas and bloating, while certain medical conditions may require temporarily reducing fiber intake.",
+    "source": "Mayo Clinic",
+    "url":"https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983",
+    "topic":"nutrition"
+  },
+  {
+    "id":"D26",
+    "title": "Protein: What’s Enough?",
+    "text":"Protein needs can be met through a balanced mix of plant‑based foods such as legumes, nuts, seeds, and soy, along with fish, seafood, and small portions of lean poultry or meat. Excess protein intake often comes from high‑fat animal products, which can raise LDL cholesterol and displace healthier foods like fruits and vegetables. Adults generally require about 0.8 g/kg of body weight per day, with higher needs for children and pregnant or lactating individuals.",
+    "source": "AHA",
+    "url":"https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/protein-and-heart-health",
+    "topic": "nutrition"
+  },
+  {
+    "id":"D27",
+    "title":"Get the Facts: Added Sugars",
+    "text":"Consuming too much added sugar is linked to weight gain, obesity, type 2 diabetes, and heart disease. Added sugars include sweeteners, syrups, honey, and sugars from concentrated fruit or vegetable juices, but not naturally occurring sugars in fruits, vegetables, or milk. Major sources in the diet include sugar‑sweetened beverages, desserts, and sweet snacks. Health guidelines recommend minimizing added sugar intake across all ages, with young children advised to avoid added sugars entirely and older individuals encouraged to limit intake to small amounts per meal.",
+    "source":"CDC",
+    "url": "https://www.cdc.gov/nutrition/php/data-research/added-sugars.html",
+    "topic":"nutrition"
+  },
+  {
+    "id":"D28",
+    "title":"Kidney disease",
+    "text": "Kidney disease occurs when the kidneys can no longer filter waste and excess fluid effectively. Acute kidney injury develops suddenly and is often reversible with timely treatment, while chronic kidney disease progresses gradually and can lead to kidney failure requiring dialysis or transplantation. CKD is common worldwide and strongly linked with diabetes, hypertension, cardiovascular disease, and aging. Early stages often have no symptoms, making routine testing important for at‑risk individuals. Diagnosis relies on reduced estimated glomerular filtration rate and elevated urinary albumin levels. Prevention focuses on healthy lifestyle habits and controlling blood pressure, blood glucose, and blood lipids.",
+    "source":"WHO",
+    "url":"https://www.who.int/news-room/fact-sheets/detail/kidney-disease",
+    "topic":"urology"
+  },
+ {
+    "id": "D29",
+    "title": "Anemia overview",
+    "text": "Anemia is a condition in which the blood does not have enough healthy red blood cells to carry adequate oxygen to tissues. It can be caused by iron deficiency, chronic disease, or vitamin deficiencies.",
+    "source": "NIH",
+    "url": "https://www.nhlbi.nih.gov/health/anemia",
+    "topic": "hematology"
+  },
+  {
+    "id": "D30",
+    "title": "Osteoporosis basics",
+    "text": "Osteoporosis is a condition that weakens bones, making them fragile and more likely to fracture. It develops when bone density decreases faster than it is replaced.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/osteoporosis",
+    "topic": "bone health"
+  },
+  {
+    "id": "D31",
+    "title": "Arthritis overview",
+    "text": "Arthritis refers to inflammation of the joints, causing pain, stiffness, and reduced mobility. The most common types are osteoarthritis and rheumatoid arthritis.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/arthritis",
+    "topic": "rheumatology"
+  },
+  {
+    "id": "D32",
+    "title": "Hepatitis overview",
+    "text": "Hepatitis is inflammation of the liver commonly caused by viral infections, alcohol use, or autoimmune disease. Viral hepatitis types include A, B, and C.",
+    "source": "WHO",
+    "url": "https://www.who.int/health-topics/hepatitis",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D33",
+    "title": "HIV infection basics",
+    "text": "HIV is a virus that attacks the immune system, weakening the body's ability to fight infections. Without treatment, it can progress to AIDS.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/hiv/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D34",
+    "title": "Tuberculosis overview",
+    "text": "Tuberculosis is a bacterial infection that mainly affects the lungs and spreads through airborne droplets. It can be treated with antibiotics over several months.",
+    "source": "WHO",
+    "url": "https://www.who.int/health-topics/tuberculosis",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D35",
+    "title": "Foodborne illness prevention",
+    "text": "Foodborne illnesses are caused by consuming contaminated food or beverages. Prevention includes proper cooking, handwashing, and safe food storage.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/foodsafety/",
+    "topic": "public health"
+  },
+  {
+    "id": "D36",
+    "title": "Sepsis overview",
+    "text": "Sepsis is a life-threatening response to infection that can lead to tissue damage, organ failure, and death if not treated promptly.",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/sepsis",
+    "topic": "critical care"
+  },
+   {
+    "id": "D37",
+    "title": "Dementia overview",
+    "text": "Dementia is a group of symptoms affecting memory, thinking, and social abilities severe enough to interfere with daily life.",
+    "source": "NIH",
+    "url": "https://www.nia.nih.gov/health/alzheimers-and-dementia/what-dementia-symptoms-types-and-diagnosis",
+    "topic": "neurology"
+  },
+   {
+    "id": "D38",
+    "title": "Alzheimer’s disease",
+    "text": "Alzheimer’s disease is a progressive brain disorder that leads to memory loss, confusion, and changes in behavior and thinking.",
+    "source": "NIH",
+    "url": "https://www.nia.nih.gov/health/alzheimers",
+    "topic": "neurology"
+  },
+  {
+    "id": "D39",
+    "title": "Parkinson’s disease",
+    "text": "Parkinson’s disease is a neurodegenerative disorder that affects movement, causing tremors, stiffness, and slowed motion.",
+    "source": "NIH",
+    "url": "https://www.ninds.nih.gov/health-information/disorders/parkinsons-disease",
+    "topic": "neurology"
+  },
+  {
+    "id": "D40",
+    "title": "Eczema overview",
+    "text": "Eczema is a condition that causes inflamed, itchy, and irritated skin. It is often chronic and can flare due to triggers like allergens or stress.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/atopic-dermatitis",
+    "topic": "dermatology"
+  },
+  {
+    "id": "D41",
+    "title": "Psoriasis overview",
+    "text": "Psoriasis is a chronic autoimmune condition that causes skin cells to multiply rapidly, leading to scaly patches on the skin.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/psoriasis",
+    "topic": "dermatology"
+  },
+  {
+    "id": "D42",
+    "title": "Urinary tract infection (UTI)",
+    "text": "A UTI is an infection in the urinary system, commonly affecting the bladder. Symptoms include burning during urination and frequent urge to urinate.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447",
+    "topic": "urology"
+  },
+  {
+    "id": "D43",
+    "title": "GERD (acid reflux)",
+    "text": "GERD occurs when stomach acid frequently flows back into the esophagus, causing heartburn and irritation.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940",
+    "topic": "gastroenterology"
+  },
+  {
+    "id": "D44",
+    "title": "Irritable bowel syndrome (IBS)",
+    "text": "IBS is a gastrointestinal disorder causing abdominal pain, bloating, and changes in bowel habits.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/symptoms-causes/syc-20360016",
+    "topic": "gastroenterology"
+  },
+  {
+    "id": "D45",
+    "title": "Gallstones overview",
+    "text": "Gallstones are hardened deposits in the gallbladder that can block bile flow and cause abdominal pain.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214",
+    "topic": "digestive health"
+  },
+  {
+    "id": "D46",
+    "title": "Fatty liver disease",
+    "text": "Fatty liver disease occurs when excess fat builds up in the liver, potentially leading to inflammation and liver damage.",
+    "source": "NIH",
+    "url": "https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash",
+    "topic": "liver health"
+  },
+  {
+    "id": "D47",
+    "title": "Iron deficiency",
+    "text": "Iron deficiency occurs when the body lacks enough iron to produce hemoglobin, leading to fatigue and weakness.",
+    "source": "NIH",
+    "url": "https://ods.od.nih.gov/factsheets/Iron-Consumer/",
+    "topic": "nutrition deficiency"
+  },
+  {
+    "id": "D48",
+    "title": "Vitamin D deficiency",
+    "text": "Vitamin D deficiency can lead to bone weakness and impaired immune function due to lack of calcium absorption.",
+    "source": "NIH",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/",
+    "topic": "nutrition deficiency"
+  },
+  {
+    "id": "D49",
+    "title": "Celiac disease",
+    "text": "Celiac disease is an autoimmune disorder where gluten triggers damage in the small intestine.",
+    "source": "NIH",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease",
+    "topic": "autoimmune"
+  },
+  {
+    "id": "D50",
+    "title": "Allergic rhinitis",
+    "text": "Allergic rhinitis is an allergic response causing sneezing, congestion, and runny nose triggered by allergens like pollen or dust.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/hay-fever/symptoms-causes/syc-20373039",
+    "topic": "allergy"
+  },
+  {
+    "id": "D51",
+    "title": "Sinusitis",
+    "text": "Sinusitis is inflammation or infection of the sinuses that leads to facial pain, congestion, and pressure.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/sinusitis/symptoms-causes/syc-20351661",
+    "topic": "respiratory"
+  },
+  {
+    "id": "D52",
+    "title": "Pneumonia overview",
+    "text": "Pneumonia is an infection that inflames air sacs in the lungs, which may fill with fluid and cause breathing difficulty.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/pneumonia/",
+    "topic": "respiratory infection"
+  },
+  {
+    "id": "D53",
+    "title": "Bronchitis",
+    "text": "Bronchitis is inflammation of the bronchial tubes causing cough, mucus production, and chest discomfort.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566",
+    "topic": "respiratory"
+  },
+  {
+    "id": "D54",
+    "title": "Kidney stones",
+    "text": "Kidney stones are hard mineral deposits that form in the kidneys and can cause severe pain when passing through the urinary tract.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755",
+    "topic": "urology"
+  },
+  {
+    "id": "D55",
+    "title": "Appendicitis",
+    "text": "Appendicitis is inflammation of the appendix that often requires emergency surgical removal.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543",
+    "topic": "emergency medicine"
+  },
+  {
+    "id": "D56",
+    "title": "Pancreatitis",
+    "text": "Pancreatitis is inflammation of the pancreas that can cause severe abdominal pain and digestive issues.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227",
+    "topic": "gastroenterology"
+  },
+  {
+    "id": "D57",
+    "title": "Lupus overview",
+    "text": "Lupus is an autoimmune disease where the immune system attacks healthy tissues, causing inflammation and organ damage.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/lupus",
+    "topic": "autoimmune"
+  },
+  {
+    "id": "D58",
+    "title": "Rheumatoid arthritis",
+    "text": "Rheumatoid arthritis is an autoimmune disorder that causes chronic joint inflammation, pain, and deformity over time.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/rheumatoid-arthritis",
+    "topic": "rheumatology"
+  },
+   {
+    "id": "D59",
+    "title": "HPV (Human Papillomavirus)",
+    "text": "HPV is a common viral infection that can cause genital warts and certain cancers, including cervical cancer. Vaccination is the most effective prevention strategy.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/hpv/",
+    "topic": "vaccines"
+  },
+   {
+    "id": "D60",
+    "title": "Hepatitis B vaccine",
+    "text": "The hepatitis B vaccine protects against a viral infection that can lead to chronic liver disease and liver cancer.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/hepatitis-b/vaccination/index.html",
+    "topic": "vaccines"
+  },
+   {
+    "id": "D61",
+    "title": "About Childhood Lead Poisoning Prevention",
+    "text": "Lead exposure can damage the brain and nervous system, especially in children. Sources include old paint, contaminated water, and soil.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/nceh/lead/",
+    "topic": "environmental health"
+  },
+   {
+    "id": "D62",
+    "title": "Radon exposure risks",
+    "text": "Radon is a naturally occurring radioactive gas that can accumulate indoors and increase lung cancer risk over time.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/radon/",
+    "topic": "environmental health"
+  },
+  {
+    "id": "D63",
+    "title": "Air pollution and health",
+    "text": "Exposure to air pollution increases risk of respiratory and cardiovascular disease, especially in vulnerable populations.",
+    "source": "WHO",
+    "url": "https://www.who.int/health-topics/air-pollution",
+    "topic": "environmental health"
+  },
+  {
+    "id": "D64",
+    "title": "Tobacco secondhand smoke",
+    "text": "Secondhand smoke exposure increases risk of heart disease, lung cancer, and respiratory illness in non-smokers.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/tobacco/secondhand-smoke/",
+    "topic": "public health"
+  },
+   {
+    "id": "D65",
+    "title": "Alcohol and health risks",
+    "text": "Excessive alcohol use increases risk of liver disease, injuries, and certain cancers.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/alcohol/about-alcohol-use/index.html",
+    "topic": "substance use"
+  },
+   {
+    "id": "D67",
+    "title": "Food allergies overview",
+    "text": "Food allergies occur when the immune system reacts to certain foods such as peanuts, shellfish, or milk.",
+    "source": "NIH",
+    "url": "https://www.niaid.nih.gov/diseases-conditions/food-allergy",
+    "topic": "allergy"
+  },
+  {
+    "id": "D68",
+    "title": "Astigmatism",
+    "text": "Astigmatism is a common vision condition caused by an irregular curvature of the cornea or lens.",
+    "source": "NIH",
+    "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/astigmatism",
+    "topic": "ophthalmology"
+  },
+  {
+    "id": "D69",
+    "title": "Myopia (nearsightedness)",
+    "text": "Myopia is a vision condition where distant objects appear blurry due to elongation of the eyeball or corneal shape issues.",
+    "source": "NIH",
+    "url": "https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/nearsightedness-myopia",
+    "topic": "ophthalmology"
+  },
+   {
+    "id": "D70",
+    "title": "Glaucoma",
+    "text": "Glaucoma is a group of eye diseases that damage the optic nerve, often due to high intraocular pressure.",
+    "source": "NIH",
+    "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma",
+    "topic": "ophthalmology"
+  },
+  {
+    "id": "D71",
+    "title": "Cataracts",
+    "text": "Cataracts cause clouding of the eye lens, leading to blurry vision and eventual vision loss if untreated.",
+    "source": "NIH",
+    "url": "https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/cataracts",
+    "topic": "ophthalmology"
+  },
+   {
+    "id": "D72",
+    "title": "Hearing loss",
+    "text": "Hearing loss can result from aging, noise exposure, infections, or genetic factors.",
+    "source": "NIH",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542323/",
+    "topic": "otolaryngology"
+  },
+  {
+    "id": "D73",
+    "title": "Tinnitus",
+    "text": "Tinnitus is the perception of ringing or noise in the ears without an external sound source.",
+    "source": "NIH",
+    "url": "https://www.nidcd.nih.gov/health/tinnitus",
+    "topic": "otolaryngology"
+  },
+  {
+    "id": "D74",
+    "title": "Obstructive sleep apnea",
+    "text": "Sleep apnea causes breathing interruptions during sleep, leading to poor rest and increased cardiovascular risk.",
+    "source": "NIH",
+    "url": "https://www.nhlbi.nih.gov/health/sleep-apnea",
+    "topic": "sleep disorders"
+  },
+  {
+    "id": "D75",
+    "title": "Restless legs syndrome",
+    "text": "RLS causes an uncontrollable urge to move the legs, often worsening at night.",
+    "source": "NIH",
+    "url": "https://www.ninds.nih.gov/health-information/disorders/restless-legs-syndrome",
+    "topic": "neurology"
+  },
+  {
+    "id": "D76",
+    "title": "Erectile dysfunction",
+    "text": "Erectile dysfunction is the inability to achieve or maintain an erection sufficient for sexual activity, often linked to vascular or psychological causes.",
+    "source": "NIH",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/erectile-dysfunction",
+    "topic": "urology"
+  },
+  {
+    "id": "D77",
+    "title": "Endometriosis",
+    "text": "Endometriosis is a condition where tissue similar to the uterine lining grows outside the uterus, causing pain and fertility issues.",
+    "source": "NIH",
+    "url": "https://www.nichd.nih.gov/health/topics/endometriosis",
+    "topic": "reproductive health"
+  },
+  {
+    "id": "D78",
+    "title": "Polycystic ovary syndrome (PCOS)",
+    "text": "PCOS is a hormonal disorder causing irregular menstrual cycles, ovarian cysts, and metabolic issues.",
+    "source": "NIH",
+    "url": "https://www.nichd.nih.gov/health/topics/pcos",
+    "topic": "endocrine"
+  },
+  {
+    "id": "D79",
+    "title": "Menopause",
+    "text": "Menopause is the natural cessation of menstrual cycles, typically occurring in middle age, accompanied by hormonal changes.",
+    "source": "NIH",
+    "url": "https://www.nia.nih.gov/health/menopause",
+    "topic": "reproductive health"
+  },
+   {
+    "id": "D80",
+    "title": "Bladder Control Problems (Urinary Incontinence)",
+    "text": "Urinary incontinence is the loss of bladder control, ranging from mild leakage to complete inability to hold urine.",
+    "source": "NIH",
+    "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems",
+    "topic": "urology"
+  },
+   {
+    "id": "D81",
+    "title": "Scoliosis",
+    "text": "Scoliosis is an abnormal curvature of the spine that often develops during adolescence.",
+    "source": "NIH",
+    "url": "https://www.niams.nih.gov/health-topics/scoliosis",
+    "topic": "orthopedics"
+  },
+  {
+    "id": "D82",
+    "title": "Back pain",
+    "text": "Back pain is a common condition caused by muscle strain, disc problems, or posture issues.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/back-pain/symptoms-causes/syc-20369906",
+    "topic": "musculoskeletal"
+  },
+  {
+    "id": "D83",
+    "title": "Carpal tunnel syndrome",
+    "text": "Carpal tunnel syndrome is caused by compression of the median nerve in the wrist, leading to numbness and tingling.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/symptoms-causes/syc-20355603",
+    "topic": "neurology"
+  },
+    {
+    "id": "D84",
+    "title": "Tendinitis",
+    "text": "Tendinitis is inflammation of a tendon, often caused by repetitive motion or overuse injuries.",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/tendinitis/symptoms-causes/syc-20378243",
+    "topic": "musculoskeletal"
+  },
+    {
+    "id": "D85",
+    "title": "Shingles",
+    "text": "Shingles is a painful viral rash caused by reactivation of the varicella-zoster virus.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/shingles/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D86",
+    "title": "Chickenpox",
+    "text": "Chickenpox is a highly contagious viral infection causing itchy blisters and fever.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/chickenpox/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D87",
+    "title": "Measles overview",
+    "text": "Measles is a highly contagious viral disease that can cause severe complications including pneumonia and brain inflammation.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/measles/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D88",
+    "title": "Mumps",
+    "text": "Mumps is a viral infection causing swelling of the salivary glands.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/mumps/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D89",
+    "title": "Rubella",
+    "text": "Rubella is a viral infection that can cause serious birth defects if contracted during pregnancy.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/rubella/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D90",
+    "title": "Norovirus",
+    "text": "Norovirus is a highly contagious virus causing vomiting and diarrhea outbreaks.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/norovirus/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D91",
+    "title": "Hand, foot, and mouth disease",
+    "text": "HFMD is a viral illness common in children causing fever, mouth sores, and rash.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/hand-foot-mouth/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D92",
+    "title": "Lyme disease",
+    "text": "Lyme disease is a bacterial infection transmitted by tick bites that can cause fatigue, rash, and joint pain.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/lyme/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D93",
+    "title": "Rabies",
+    "text": "Rabies is a viral disease that affects the brain and is almost always fatal once symptoms appear.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/rabies/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D94",
+    "title": "Tetanus",
+    "text": "Tetanus is a bacterial infection causing muscle stiffness and spasms, preventable by vaccination.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/tetanus/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D95",
+    "title": "Botulism",
+    "text": "Botulism is a rare but serious illness caused by toxins affecting the nervous system.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/botulism/",
+    "topic": "toxicology"
+  },
+  {
+    "id": "D96",
+    "title": "Food poisoning (Salmonella)",
+    "text": "Salmonella infection causes diarrhea, fever, and abdominal cramps from contaminated food.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/salmonella/",
+    "topic": "food safety"
+  },
+  {
+    "id": "D97",
+    "title": "E. coli infection",
+    "text": "Certain strains of E. coli can cause severe gastrointestinal illness from contaminated food or water.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/ecoli/",
+    "topic": "food safety"
+  },
+  {
+    "id": "D98",
+    "title": "Antibiotic resistance overview",
+    "text": "Antibiotic resistance occurs when bacteria evolve to survive antibiotic treatment, making infections harder to treat.",
+    "source": "WHO",
+    "url": "https://www.who.int/health-topics/antimicrobial-resistance",
+    "topic": "global health"
+  },
+  {
+    "id": "D99",
+    "title": "Hantavirus",
+    "text": "Hantavirus is a rare but serious disease spread by rodent exposure that can cause severe respiratory illness.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/hantavirus/",
+    "topic": "infectious disease"
+  },
+   {
+    "id": "D100",
+    "title": "West Nile virus",
+    "text": "West Nile virus is spread by mosquitoes and can cause neurological disease in severe cases.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/westnile/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D101",
+    "title": "Zika virus",
+    "text": "Zika virus is transmitted by mosquitoes and can cause birth defects when infection occurs during pregnancy.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/zika/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D102",
+    "title": "Dengue fever",
+    "text": "Dengue is a mosquito-borne viral illness causing high fever, rash, and severe joint pain.",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D103",
+    "title": "Malaria overview",
+    "text": "Malaria is a mosquito-borne disease caused by Plasmodium parasites and remains a major global health issue.",
+    "source": "WHO",
+    "url": "https://www.who.int/health-topics/malaria",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D104",
+    "title": "Yellow fever",
+    "text": "Yellow fever is a viral disease transmitted by mosquitoes, preventable through vaccination.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/yellowfever/",
+    "topic": "infectious disease"
+  },
+  {
+    "id": "D105",
+    "title": "Anthrax",
+    "text": "Anthrax is a serious bacterial infection that can affect skin, lungs, or digestive system.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/anthrax/",
+    "topic": "infectious disease"
+  },
+  {
+    "id":"D106",
+    "title":"Health Effects of Vaping",
+    "text": "Vaping exposes users to nicotine and other harmful substances including cancer-causing chemicals, heavy metals, volatile organic compounds, and fine particles that can reach deep into the lungs. Nicotine in e-cigarettes is highly addictive and can harm brain development in adolescents, which continues until about age 25. Early nicotine exposure can lead to addiction, impair attention, learning, mood, and impulse control, and increase the risk of future substance addiction. E-cigarette aerosol contains fewer toxic chemicals than cigarette smoke, but is still not safe. Youth, young adults, and pregnant individuals are strongly advised not to use e-cigarettes. During pregnancy, nicotine exposure is linked to fetal brain and lung damage, low birth weight, and preterm birth. Vaping can also lead to nicotine dependence, withdrawal symptoms such as irritability, anxiety, and difficulty concentrating, and may negatively affect mental health and stress levels. Additional risks include poisoning from liquid nicotine, seizures, and device-related injuries such as battery explosions and fires.",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/tobacco/e-cigarettes/health-effects.html",
+    "topic": "substance use"
+  },
+  {
+  "id": "D107",
+  "title": "Menstrual Hygiene",
+  "text": "Menstrual hygiene involves managing menstrual bleeding in a safe, clean, and comfortable way using products such as pads, tampons, menstrual cups, or period underwear. Good menstrual hygiene includes regularly changing products, washing hands before and after handling them, and cleaning the external genital area with water. Proper hygiene helps reduce the risk of irritation, infections, and discomfort. Access to safe menstrual products and sanitation is important for health, dignity, and participation in school and daily activities. Education about menstruation helps reduce stigma and supports better reproductive health awareness.",
+  "source": "WHO",
+  "url": "https://www.who.int/health-topics/menstrual-health",
+  "topic": "reproductive health"
+}
+]

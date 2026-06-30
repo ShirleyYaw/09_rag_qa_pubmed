@@ -1,0 +1,309 @@
+{
+  "symptoms hantavirus?": [
+    {
+      "id": "PMID41592833",
+      "title": "Prognostic factors for mortality in patients infected with New World hantaviruses: a systematic review and meta-analysis.",
+      "text": "One of the challenges in managing patients with hantavirus infection is accurately identifying individuals who are at risk of developing severe disease. Prompt identification of these patients can facilitate critical decisions, such as early referral to an intensive care unit. The identified prognostic factors could be of utility in guiding medical care to enhance the management of hantavirus infection. To identify and evaluate prognostic factors associated with mortality in hantavirus infection. We conducted a Preferred Reporting Items for Systematic Reviews and Meta-Analyses-reported systematic review following Cochrane guidance adapted for prognosis. We searched PubMed/MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL), Biblioteca Virtual de Sa\u00fade or Lilac and EMBASE, from 1 January 1993 to 2 October 2025. We included studies evaluating individual prognostic factors or risk assessment models of New World hantavirus infections, with no restrictions on study design, publication status or language. When feasible, we conducted meta-analyses for prognostic factors using the inverse variance-based method with random effect model. We assessed the certainty of the evidence using the Grading of Recommendations Assessment, Development and Evaluation approach. We included 25 studies with a total of 7284 participants. We identified the following prognostic factors for which we found moderate to high certainty that are associated with increased mortality: age over 18 years, female sex, rural residence, elevated creatinine levels, increased haematocrit, signs of bleeding and the presence of infiltrates on chest radiographs. Our systematic review identified prognostic factors for mortality in patients with New World hantavirus infection. These factors can inform clinicians in making more informed management decisions. Furthermore, our findings lay the groundwork for the future development of a clinical prognostic model, potentially enhancing patient care and outcomes. CRD42021225823.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41592833/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D106",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID39187633",
+      "title": "Orthohantavirus infections in South America: a systematic review and meta-analysis.",
+      "text": "Orthohantaviruses are zoonotic pathogens that cause acute and severe syndromes in humans. This review was performed to estimate the occurrence of human orthohantaviruses in South America between 2010 and 2022. A careful evaluation of the eligibility and quality of the articles was carried out after a systematic bibliographic search of four databases. The pooled frequency of human orthohantaviruses was calculated using a random effects model meta-analysis. The heterogeneity of estimates (resulting from the chi2 test and I2 statistics) was investigated by subgroup analysis and meta-regression. 1,962 confirmed cases of orthohantavirus infections were diagnosed among 35,548 individuals from seven South American countries. The general occurrence of orthohantaviruses was estimated to be 4.4% (95% confidence interval: 2.9-6.2%) based on general pooling of human cases from 32 studies. In a subgroup analysis considering the study design and method of diagnosis, the percentages of diagnosed orthohantavirus infections differed substantially (I2 = 97.8%, p = 0.00) among South American countries. Four genetic variants of orthohantavirus have been identified circulating in Argentina, Brazil, Bolivia, Chile, Colombia, and Peru. Although laboratory diagnosis of orthohantaviruses is not performed in many countries in South America, there is evidence that four different orthohantaviruses are circulating in the region. The pooled occurrence of viral infection was approximately 4.0% in more than half of the South American countries. Updated information on the occurrence of human infections is essential for monitoring the territorial spread and determining the frequency of this zoonosis.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39187633/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D28",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID39164620",
+      "title": "Non-malarial febrile illness: a systematic review of published aetiological studies and case reports from China, 1980-2015.",
+      "text": "Rapid point-of-care tests for malaria are now widely used in many countries to guide the initial clinical management of patients presenting with febrile illness. With China having recently achieved malaria elimination, better understanding regarding the identity and distribution of major non-malarial causes of febrile illnesses is of particular importance to inform evidence-based empirical treatment policy. A systematic review of published literature was undertaken to characterise the spectrum of pathogens causing non-malaria febrile illness in China (1980-2015). Literature searches were conducted in English and Chinese languages in six databases: Ovid MEDLINE, Global Health, EMBASE, Web of Science\u2122 - Chinese Science Citation Database A total of 57,181 records from 13 provinces of China where malaria used to be endemic were screened, of which 392 met selection criteria and were included in this review. The review includes 60 (15.3%) records published from 1980 to 2000, 211 (53.8%) from 2001 to 2010 and 121 (30.9%) from 2011 to 2015;. Of the 392 records, 166 (42.3%) were from the eastern region of China, 120 (30.6%) were from the south-west, 102 (26.0%) from south-central, and four (1.0%) were multi-regional studies. Bacterial infections were reported in 154 (39.3%) records, viral infections in 219 (55.9%), parasitic infections in four (1.0%), fungal infections in one (0.3%), and 14 (3.6%) publications reported more than one pathogen group. Participants of all ages were included in 136 (34.7%) studies, only adults in 75 (19.1%), only children in 17 (4.3%), only neonates in two (0.5%) and the age distribution was not specified in 162 (41.3%) records. The most commonly reported bacterial pathogens included Typhoidal Salmonella (n\u2009=\u200930), Orientia/ Rickettsia tsutsugamushi (n\u2009=\u200931), Coxiella burnetii (n\u2009=\u200917), Leptospira spp. (n\u2009=\u200915) and Brucella spp. (n\u2009=\u200915). The most commonly reported viral pathogens included Hantavirus/Hantaan virus (n\u2009=\u200989), dengue virus (DENV) (n\u2009=\u200976 including those with unknown serovars), Japanese encephalitis virus (n\u2009=\u200921), and measles virus (n\u2009=\u200915). The relative lack of data in the western region of the country, as well as in in neonates and children, represented major gaps in the understanding of the aetiology of fever in China. This review presents a landscape of non-malaria pathogens causing febrile illness in China over 36 years as the country progressed toward malaria elimination. These findings can inform guidelines for clinical management of fever cases and infection surveillance and prevention, and highlight the need to standardize operational and reporting protocols for better understanding of fever aetiology in the country.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39164620/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D106",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID31344156",
+      "title": "Knowledge about bacterial and viral pathogens present in wild mammals in Chile: a systematic review.",
+      "text": "This study organizes all available information about viral and bacterial pathogens of wild mammals in Chile. This was done in order to identify pathogens that have been well-documented and recognize those that have not been properly studied, determine the number of articles that have been published annually about this topic and identify regions in Chile that concentrate the highest and lowest number of studies concerning viral and bacterial pathogens. A total of 67 scientific articles published in peer-reviewed journals from 1951 to 2018 were selected for revision. Results indicate that the number of publications has increased per decade but there are years in which no articles were published. Most studies addressed Leptospira, rabies, hantavirus, Mycobacterium avium paratuberculosis (MAP) and distemper. Rodentia, Carnivora, Chiroptera and Cetartiodactyla were the most studied mammal orders. Information about presence/absence of pathogens was found for 44 wild mammal species. Research was mainly carried out in central and southern Chile and the most commonly employed methods for pathogen diagnosis were serology and molecular techniques. Overall, research in wild mammals has been directed towards the evaluation of zoonotic diseases, while vector-borne and non-zoonotic diseases have been mostly neglected by the scientific community over the years.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31344156/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review"
+    },
+    {
+      "id": "PMID31095204",
+      "title": "[Knowledge about viral and bacterial pathogens present in wild mammals in Chile: a systematic review].",
+      "text": "This study organizes all available information about viral and bacterial pathogens of wild mammals in Chile. This was done in order to identify pathogens that have been well-documented and recognize those that have not been properly studied, determine the number of articles that have been published annually about this topic and identify regions in Chile that concentrate the highest and lowest number of studies concerning viral and bacterial pathogens. A total of 67 scientific articles published in peer-reviewed journals from 1951 to 2018 were selected for revision. Results indicate that the number of publications has increased per decade but there are years in which no articles were published. Most studies addressed Leptospira, rabies, hantavirus, Mycobacterium avium paratuberculosis (MAP) and distemper. Rodentia, Carnivora, Chiroptera and Cetartiodactyla were the most studied mammal orders. Information about presence/absence of pathogens was found for 44 wild mammal species. Research was mainly carried out in central and southern Chile and the most commonly employed methods for pathogen diagnosis were serology and molecular techniques. Overall, research in Chilean wild mammals has been directed towards the evaluation of zoonotic diseases, while vector-borne and non-zoonotic diseases have been mostly neglected by the scientific community.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31095204/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review"
+    },
+    {
+      "id": "PMID28276794",
+      "title": "Insufficient efficacy and safety of intravenous ribavirin in treatment of haemorrhagic fever with renal syndrome caused by Puumala virus.",
+      "text": "Intravenous ribavirin has been reported to be an effective treatment for haemorrhagic fever with renal syndrome (HFRS) caused by Hantaan virus in Asia. However, its therapeutic benefits for HFRS caused by Puumala virus (PUUV) in Europe are still unknown. A randomized, open-label study of efficacy and safety of intravenous ribavirin in the treatment of HFRS was conducted in the European part of Russia. Seventy-three patients with suspected HFRS within 4\u2009d of the onset of the disease were randomized to receive either intravenous ribavirin (33\u2009mg/kg, followed by 16\u2009mg/kg given every 6\u2009h for 4\u2009d and by 8\u2009mg/kg given every 8\u2009h for 3\u2009d) plus standard therapy (n\u2009=\u200937) or standard therapy alone (n\u2009=\u200936). The primary outcome was the average change from baseline in viral load over time estimated as area under the viral load curve minus baseline (AUCMB). Fifty-five patients with HFRS confirmed by nested reverse transcriptase - polymerase chain reaction (PCR) assay were included in the assessment of the efficacy. All patients entered into the clinical trial were included in the assessment of the safety. PUUV was detected in all cases of confirmed HFRS. Viral load kinetics were similar in both treatment groups. Significantly more patients receiving ribavirin than standard therapy experienced low haemoglobin level (95% vs 36%), hyperbilirubinemia (81% vs 3%), sinus bradycardia (43% vs 14%), and rash (19% vs 0%). Results of the study showed insufficient efficacy and safety of intravenous ribavirin in the treatment of HFRS caused by PUUV.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28276794/",
+      "topic": "pubmed",
+      "evidence_level": "clinical_trial",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D85",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID24447183",
+      "title": "A Phase 1 clinical trial of Hantaan virus and Puumala virus M-segment DNA vaccines for haemorrhagic fever with renal syndrome delivered by intramuscular electroporation.",
+      "text": "Haemorrhagic fever with renal syndrome (HFRS) is endemic in Asia, Europe and Scandinavia, and is caused by infection with the hantaviruses Hantaan (HTNV), Seoul (SEOV), Puumala (PUUV), or Dobrava (DOBV) viruses. We developed candidate DNA vaccines for HFRS expressing the Gn and Gc genes of HTNV or PUUV and evaluated them in an open-label, single-centre Phase 1 study. Three groups of nine participants each were vaccinated on days 0, 28 and 56 with the DNA vaccines for HTNV, PUUV, or a mixture of both vaccines using the Ichor Medical Systems TriGrid Intramuscular Delivery System. All vaccinations consisted of a total dose of 2.0 mg DNA in an injected volume of 1 mL saline. For the combined vaccine, the mixture contained equal amounts (1.0 mg) of each DNA vaccine. There were no study-related serious adverse events. Neutralizing antibody responses were measured by a plaque reduction neutralization test. Neutralizing antibody responses were detected in five of nine and seven of nine individuals who completed all three vaccinations with the HTNV or PUUV DNA vaccines, respectively. In the combined vaccine group, seven of the nine volunteers receiving all three vaccinations developed neutralizing antibodies to PUUV. The three strongest responders to the PUUV vaccine also had strong neutralizing antibody responses to HTNV. These results demonstrate that the HTNV and PUUV DNA vaccines delivered by electroporation separately or as a mixture are safe. In addition, both vaccines were immunogenic, although when mixed together, more participants responded to the PUUV than to the HTNV DNA vaccine.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24447183/",
+      "topic": "pubmed",
+      "evidence_level": "clinical_trial",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D02",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID23784924",
+      "title": "High-dose intravenous methylprednisolone for hantavirus cardiopulmonary syndrome in Chile: a double-blind, randomized controlled clinical trial.",
+      "text": "Andes virus (ANDV)-related hantavirus cardiopulmonary syndrome (HCPS) has a 35% case fatality rate in Chile and no specific treatment. In an immunomodulatory approach, we evaluated the efficacy of intravenous methylprednisolone for HCPS treatment, through a parallel-group, placebo-controlled clinical trial. Patients aged >2 years, with confirmed or suspected HCPS in cardiopulmonary stage, admitted to any of 13 study sites in Chile, were randomized by study center in blocks of 4 with a 1:1 allocation and assigned through sequentially numbered envelopes to receive placebo or methylprednisolone 16 mg/kg/day (\u22641000 mg) for 3 days. All personnel remained blinded except the local pharmacist. Infection was confirmed by immunoglobulin M antibodies or ANDV RNA in blood. The composite primary endpoint was death, partial pressure of arterial oxygen/fraction of inspired oxygen ratio \u226455, cardiac index \u22642.2, or ventricular tachycardia or fibrillation within 28 days. Safety endpoints included the number of serious adverse events (SAEs) and quantification of viral RNA in blood. Analysis was by intention to treat. Infection was confirmed in 60 of 66 (91%) enrollees. Fifteen of 30 placebo-treated patients and 11 of 30 methylprednisolone-treated patients progressed to the primary endpoint (P = .43). We observed no significant difference in mortality between treatment groups (P = .41). There was a trend toward more severe disease in placebo recipients at entry. More subjects in the placebo group experienced SAEs (P = .02). There were no SAEs clearly related to methylprednisolone administration, and methylprednisolone did not increase viral load. Although methylprednisolone appears to be safe, it did not provide significant clinical benefit to patients. Our results do not support the use of methylprednisolone for HCPS. NCT00128180.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23784924/",
+      "topic": "pubmed",
+      "evidence_level": "clinical_trial",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D28",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    }
+  ],
+  "cause acne?": [
+    {
+      "id": "PMID42377117",
+      "title": "Severe cutaneous adverse reactions associated with systemic antibiotics in acne vulgaris: a systematic review.",
+      "text": "Acne vulgaris (AV) is an inflammatory disorder of the pilosebaceous unit commonly managed with systemic antibiotics. Since antibiotics are known triggers of severe cutaneous adverse drug reaction (SCARs), patients with AV receiving prolonged antibiotics are at potential risk. This study aims to describe reported cases of SCARs occurring among AV patients treated with systemic antibiotics. A literature search was conducted in November 2025 using PubMed, Web of Science, ClinicalKey, Ovid and Cochrane library. Eligible studies included reports of AV patients who developed SCARs in association with systemic antibiotic treatment. Twenty-eight articles (27 reports, 1 case series) were identified, encompassing a total of 31 patients with SCARs. Tetracycline class was the most frequently implicated antibiotic, with a mean latency period of approximately 4\u2009weeks. Drug reaction with eosinophilia and systemic symptoms (DRESS) was reported in 24 cases, Stevens-Johnson syndrome (SJS) in 5 cases and acute generalized exanthematous pustulosis (AGEP) in 2 cases. Three patients died, and five developed long-term complications. Although rare, SCARs may occur in AV patients receiving systemic antibiotics. Clinicians should maintain a high index of suspicion during therapy, ensure regular follow-up, and counsel patients on early recognition of skin reactions to mitigate potential risks.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42377117/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D21",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID42357416",
+      "title": "CBD-Containing Hemp Extracts and Isolated CBD for Acne: A Systematic Review of Anti-Inflammatory Mechanisms, Clinical Signals and Sustainability.",
+      "text": "Industrial hemp (",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42357416/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review"
+    },
+    {
+      "id": "PMID42334669",
+      "title": "Comparing fractional CO\u2082 laser and needling-based modalities in facial acne scar treatment: a comprehensive systematic review and meta-analysis.",
+      "text": "Facial acne scarring is a widely prevalent dermatological disease manifested as a permanent aftereffect of acne vulgaris. While fractional CO\u2082 laser and needling procedures are essential to treating atrophic acne scars, comparative and safety data remains limited. This systematic review and meta-analysis directly compares their efficacy and safety.\u00a0According to PRISMA guidelines, PubMed, Cochrane, Google Scholar, and ClinicalTrials.gov were systematically searched. Only studies comparing fractional CO\u2082 laser with needling-based monotherapy treating facial atrophic acne scars in adults were included. A random-effects model was employed for meta-analysis using Review Manager (RevMan) to compare efficacy and safety outcomes.\u00a0A total of 17 studies were included in the meta-analysis. For primary efficacy outcomes, the results were non-significant for mean scar score reduction (SMD: -1.08, 95% CI: [-2.48, 0.32], I\u00b2 = 97%) or mean quantitative scar reduction (SMD: 0.12, 95% CI: [-0.80, 1.04], I\u00b2 = 92%), with significant heterogeneity. However, categorical treatment success was significantly high for CO\u2082 laser (RR: 1.10, 95% CI: [1.01, 1.20], I\u00b2 = 0%). For safety outcomes, fractional CO\u2082 laser showed significantly high risk of post-inflammatory hyperpigmentation (PIH) as compared to standard microneedling (RR: 3.04, 95% CI: [1.49, 6.21], I\u00b2 = 3%), but showed significantly low pain scores as compared to RF microneedling (SMD: -0.74, 95% CI: [-1.27, -0.21], I\u00b2 = 0%). No significant differences were found for erythema, crusting/scabbing, or edema.\u00a0Both fractional CO\u2082 laser and microneedling procedures show comparable efficacy in treating atrophic acne scars, however, patient variables such as skin type, scar type, and possible complications should be taken into consideration. Moreover, further tailored therapies are crucial to treating acne scars with low risk for complications.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42334669/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D25",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID42235037",
+      "title": "Treating Acne Vulgaris and Scarring With Botulinum Toxin: A Systematic Review.",
+      "text": "Many treatments have been proposed for the treatment of acne vulgaris and acne scarring; however, few data exist regarding the efficacy of botulinum toxin A as a treatment option. To compile all available data on the efficacy and safety of botulinum toxin A as a treatment for acne vulgaris and acne scarring. A systematic review of PubMed/MEDLINE, Excerpta Medica Database (EMBASE), Scopus, CINAHL, and the Cochrane CENTRAL Register of Controlled Trials, and Google Scholar databases identified all cases of acne vulgaris and acne scarring treated with botulinum toxin. Four hundred thirty-six patients (218 with acne vulgaris and 218 patients with acne scarring) from 14 manuscripts were included in this review. Results showed overall improvement for up to 3-6 months in the majority of patients based on sebometer readings, fine pore count, and patient satisfaction scores. Acne scarring improved in patients treated with botulinum toxin as a single therapy, as well as in combination with other therapies, with consistently high patient satisfaction scores. Patients experienced a significant reduction in sebum production, number of acne lesions, and improvement in the appearance of acne scars, indicating a role for botulinum toxin A in the treatment of acne and acne scarring.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42235037/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review"
+    },
+    {
+      "id": "PMID42233037",
+      "title": "Dietary patterns, metabolic pathways and metainflammation in hidradenitis suppurativa: a systematic review.",
+      "text": "Dietary factors have been suggested to influence inflammatory skin diseases; however, their role in the pathogenesis and clinical course of hidradenitis suppurativa (HS) remains insufficiently understood. Increasing evidence suggests that HS is a systemic immunometabolic disease characterized by chronic low-grade inflammation and metabolic comorbidities such as obesity, insulin resistance, and metabolic syndrome. Dietary patterns may therefore influence HS activity through metabolic and inflammatory pathways. To systematically evaluate available evidence on dietary patterns, nutritional interventions, and micronutrient status in hidradenitis suppurativa and to assess their associations with disease onset, disease severity, and underlying metabolic and inflammatory mechanisms. A systematic search was conducted in PubMed/Medline for studies published between 1985 and 2026, following PRISMA guidelines. Eligible study types included observational studies, interventional trials, and case-control or cross-sectional studies investigating dietary exposures or nutritional interventions in HS. Reference lists were screened for additional records. Eleven studies met the inclusion criteria. Across observational cohorts, lower adherence to Mediterranean-style dietary patterns, higher glycaemic dietary patterns, and micronutrient deficiencies, particularly vitamin D and zinc, were generally associated with greater HS disease severity. Interventional evidence was limited. A small pilot study reported clinical improvement following a very low-calorie ketogenic diet, and yeast-exclusion diets were associated with symptom improvement in small patient cohorts. Evidence from bariatric surgery cohorts suggested that malabsorptive procedures and persistent micronutrient deficiencies may be associated with worsening HS in some patients. Overall, the available studies suggest potential links between diet and HS through metabolic, inflammatory, and microbiome-related pathways, although the evidence remains limited and heterogeneous. Current evidence suggests that dietary habits and nutritional status may influence hidradenitis suppurativa through metabolic and inflammatory mechanisms. Although data remain heterogeneous and largely observational, promoting anti-inflammatory dietary patterns, optimizing micronutrient intake, and addressing obesity may offer supportive benefits alongside standard HS therapies. Further controlled studies are needed to establish causality.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42233037/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D25",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID42168448",
+      "title": "Efficacy and safety of recombinant human epidermal growth factor combined with fractional carbon dioxide laser for facial atrophic acne scars: a systematic review and meta-analysis of randomized trials.",
+      "text": "The combination of recombinant human epidermal growth factor (rhEGF) and fractional carbon dioxide (CO This study aimed to systematically assess the efficacy and safety of rhEGF combined with fractional CO PubMed, Embase, the Cochrane Library, Web of Science, CNKI (China National Knowledge Infrastructure), Wanfang, SinoMed, and VIP were searched from inception to July 29, 2025. Parallel-group or split-face randomized controlled trials (RCTs) comparing fractional CO Twelve RCTs involving 1,044 patients were included, and all trials were conducted in China. Follow-up durations across studies ranged from 1 week to 12 months. Compared with fractional CO\u2082 laser therapy alone, the combination therapy significantly reduced ECCA scores by a mean of 11.14 points (95% CI: -16.82 to -5.45, P\u2009=\u20090.0001) and VSS scores by a mean of 1.54 points (95% CI: -2.55 to -0.54, P\u2009=\u20090.003). The combination therapy demonstrated advantages in improving the durations of crust formation. The incidence of adverse events, particularly hyperpigmentation (RR\u2009=\u20090.41, 95% CI: 0.20 to 0.86; P\u2009=\u20090.02), was significantly lower in the combination therapy group. According to the GRADE assessment, the certainty of evidence ranged from very low to moderate for most outcomes. This study suggests that rhEGF combined with fractional CO\u2082 laser therapy may be beneficial for treating atrophic acne scars. However, because of the low to moderate certainty of evidence according to GRADE assessment, more robust, large-scale RCTs are needed to confirm these findings and define optimal treatment parameters.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42168448/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review"
+    },
+    {
+      "id": "PMID42312398",
+      "title": "Comparative efficacy, recovery, and pigmentary safety of radiofrequency microneedling and fractional carbon dioxide laser for facial atrophic acne scars: a prospective randomized split-face trial.",
+      "text": "To compare efficacy, recovery, pigmentary safety, and patient-reported outcomes of radiofrequency microneedling (RFMN) and fractional carbon dioxide laser (FCO In this prospective, randomized, split-face, evaluator-blinded exploratory trial, 33 patients were enrolled, and 30 completed the study. Each facial side was assigned to RFMN or FCO Both modalities significantly improved acne scars over time. Mean ECCA scores decreased from 54.73 to 30.53 with RFMN and from 53.67 to 31.03 with FCO Both treatments improved facial atrophic acne scars in this exploratory split-face sample. RFMN offered faster recovery, fewer pigmentary events, and higher safety satisfaction.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42312398/",
+      "topic": "pubmed",
+      "evidence_level": "clinical_trial"
+    },
+    {
+      "id": "PMID42235049",
+      "title": "Randomized Controlled Study of Bacteriophages in Acne Reveals Efficacy and Novel Mechanism for Promoting Long-Term Skin Health.",
+      "text": "Acne is the most prevalent skin disease globally, with a significant burden and limited therapeutic innovation. Although it has a multifactorial etiology, Cutibacterium acnes (C acnes) overgrowth is a key factor in driving inflammation in acne. Bacteriophages are a novel mechanism that can specifically target C acnes and are found in greater abundance on healthy skin compared to acne-prone skin. To study the safety and efficacy of phages and salicylic acid (SA) in acne, and to analyze their mode of action and effect on microbiome diversity. A randomized double-blind placebo-controlled study was conducted on 90 participants for 8 weeks. Males and females 12 to 35 years old with mild to moderate acne were enrolled in placebo, phage, and phage + SA arms. Clinic visits at baseline, week 4, and week 8 collected safety data, VISIA imaging, lesion counts, IGA scores, and microbiome samples. Phage treatment demonstrated an excellent safety profile. Participants in both phage and phage + SA arms showed significant improvement (P&lt;0.05) over baseline at 8 weeks. Phage application resulted in a statistically significant (P&lt;0.05) decrease of C acnes on the skin compared to placebo. Notably, phage use over 8 weeks significantly increased microbiome diversity, a marker of long-term skin health. This study shows the potential of bacteriophages to be a highly promising modality with a unique mode of action for the treatment of acne. Beyond short-term lesion improvement, phage-induced enhancement of microbiome diversity suggests potential for durable, long-term skin health benefits. &nbsp.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42235049/",
+      "topic": "pubmed",
+      "evidence_level": "clinical_trial",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D04",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    }
+  ],
+  "cause hormonal acne?": [
+    {
+      "id": "PMID42168448",
+      "title": "Efficacy and safety of recombinant human epidermal growth factor combined with fractional carbon dioxide laser for facial atrophic acne scars: a systematic review and meta-analysis of randomized trials.",
+      "text": "The combination of recombinant human epidermal growth factor (rhEGF) and fractional carbon dioxide (CO This study aimed to systematically assess the efficacy and safety of rhEGF combined with fractional CO PubMed, Embase, the Cochrane Library, Web of Science, CNKI (China National Knowledge Infrastructure), Wanfang, SinoMed, and VIP were searched from inception to July 29, 2025. Parallel-group or split-face randomized controlled trials (RCTs) comparing fractional CO Twelve RCTs involving 1,044 patients were included, and all trials were conducted in China. Follow-up durations across studies ranged from 1 week to 12 months. Compared with fractional CO\u2082 laser therapy alone, the combination therapy significantly reduced ECCA scores by a mean of 11.14 points (95% CI: -16.82 to -5.45, P\u2009=\u20090.0001) and VSS scores by a mean of 1.54 points (95% CI: -2.55 to -0.54, P\u2009=\u20090.003). The combination therapy demonstrated advantages in improving the durations of crust formation. The incidence of adverse events, particularly hyperpigmentation (RR\u2009=\u20090.41, 95% CI: 0.20 to 0.86; P\u2009=\u20090.02), was significantly lower in the combination therapy group. According to the GRADE assessment, the certainty of evidence ranged from very low to moderate for most outcomes. This study suggests that rhEGF combined with fractional CO\u2082 laser therapy may be beneficial for treating atrophic acne scars. However, because of the low to moderate certainty of evidence according to GRADE assessment, more robust, large-scale RCTs are needed to confirm these findings and define optimal treatment parameters.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42168448/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review"
+    },
+    {
+      "id": "PMID41424156",
+      "title": "Incidence of Acne in Women Using the Levonorgestrel-Releasing Intrauterine Device: A Systematic Review and Meta-Analysis.",
+      "text": "The levonorgestrel-releasing intrauterine system (LNG-IUS) is a widely used long-term contraceptive with high continuation rates, but acne may lead to discontinuation. To evaluate the incidence of acne among LNG-IUS users. A systematic search was conducted in PubMed, Embase, and Cochrane Central from inception to September 2024. Randomised clinical trials (RCTs) analysing patients of any age using LNG-IUS at 52\u2009mg, 19.5\u2009mg, or 13.5\u2009mg, with acne reported as an outcome, were included. Statistical analyses were conducted using OpenMeta. Chi-square and Z-tests assessed differences between groups, and study quality was appraised using the ROB-2 tool. Of 587 studies identified, nine RCTs met inclusion criteria, comprising 6305 LNG-IUS users. The overall acne incidence was 15.0% (95% CI 9.8%-20.3%). Among 2295 users of LNG-IUS 52\u2009mg, incidence reached 19.5% (95% CI 5.2%-33.7%), whereas in 2322 users of LNG-IUS 13.5\u2009mg it was 13.1% (95% CI 8.3%-17.9%) (p\u2009<\u20090.001). Two trials evaluated the 19.5\u2009mg device but data were insufficient for pooling. Studies enrolling younger women (mean age ~24\u2009years) reported an incidence of 19.3% (95% CI 11.0%-27.5%). Excluding Suhonen et\u00a0al. yielded pooled proportions of 11.9% (95% CI 1.1%-22.7%) for LNG-IUS 52\u2009mg users, 10.8% (95% CI 6.1%-15.5%) when all dosages were combined, and 9.9% (95% CI 9.0%-10.9%) among young women. Heterogeneity remained substantial in the overall and dosage-specific analyses (I LNG-IUS 52\u2009mg users showed a higher incidence of acne compared with those using LNG-IUS 13.5\u2009mg. Studies enrolling younger women also showed a higher incidence. These findings suggest that device dosage and age influence acne occurrence among LNG-IUS users. PROSPERO registration number: CRD42024588771.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41424156/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D106",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID41412986",
+      "title": "P05 The efficacy and safety of isotretinoin in transgender males receiving gender-affirming hormonal therapy with youth subgroup analysis: a systematic review.",
+      "text": "Acne is a frequent effect of testosterone-based gender-affirming hormone therapy (GAHT), affecting up to 30% of transgender males within the first year. No formal guidelines address acne management or isotretinoin use in this population, and current recommendations rely on cisgender data. This review evaluates isotretinoin's efficacy and safety in transgender males, including adolescents, to clarify evidence gaps. Following PRISMA 2020 and PROSPERO registration, we included studies of transgender males on GAHT treated with oral isotretinoin. Case reports and series were eligible. Searches across major databases and grey literature were unrestricted by language. Extracted data included demographics, GAHT regimen, dosing, efficacy, and psychiatric outcomes, with narrative synthesis. Of 366 records, seven eligible studies (five with full text) reported on 67 transgender males on testosterone therapy, including seven adolescents. Acne often developed or worsened after GAHT initiation or dose increases. Isotretinoin led to marked or complete improvement in 87% of cases, though relapse and repeat courses were common. Thirty-seven patients discontinued early due to follow-up loss, adverse effects, surgery, or logistical barriers. Psychiatric symptoms were rare with uncertain causality. Overall study quality was low to moderate. Isotretinoin appears effective and generally safe for severe testosterone-associated acne in transgender males. Psychiatric effects did not exceed expected background rates but support integrated mental health care. Prospective studies are needed to guide standardized acne management in gender-affirming care.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41412986/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D106",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID41365395",
+      "title": "Effects of nutritive and non-nutritive sweeteners on acne vulgaris: A systematic review.",
+      "text": "Acne vulgaris is a prevalent inflammatory skin disorder influenced by sebaceous gland activity, hormonal regulation, and microbial proliferation. Dietary factors, including sweetening agents, may modulate acne pathophysiology, affecting sebum production, inflammatory responses, and the skin microbiome. This systematic review summarizes the effects of nutritive and non-nutritive sweeteners on acne-related markers, with a focus on Cutibacterium acnes activity and associated inflammatory pathways. Non-nutritive sweeteners such as mannitol and xylitol show potential in regulating acne pathogenesis and exhibiting antibacterial activity against C. acnes. Strategic combinations of sweeteners with bioactive compounds, such as mannitol with bakuchiol or Ginkgo biloba extract, and xylitol with propanediol and caprylic acid, further enhance anti-inflammatory and antimicrobial effects, offering a multifaceted approach to acne management. For nutritive sweeteners, experimental evidence suggests that glucose may enhance C. acnes biofilm susceptibility when combined with certain antibiotics. These findings emphasize the importance of careful selection and formulation of sweetening agents in dermatological interventions. Incorporating sweeteners, alone or in combination with bioactive compounds, could complement conventional acne therapies, reduce microbial proliferation, modulate inflammatory pathways, and support overall skin health. This review provides a scientific basis for dietary recommendations and the development of adjunctive acne treatments, highlighting sweetening agents as emerging functional modulators of acne pathogenesis.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41365395/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D106",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID41337645",
+      "title": "Clinical Analysis of 14 Cases with Androgen-Secreting Ovarian Sex Cord-Stromal Tumors: Diagnosis, Treatment, and Literature Review.",
+      "text": "To analyze the clinical data of 14 patients with androgen-secreting ovarian sex cord-stromal tumors (OSCSTs), a rare cause of female hyperandrogenism (HA), aiming to enhance differential diagnosis and reduce misdiagnosis of these diseases. Fourteen female patients with pathologically confirmed OSCSTs were retrospectively enrolled in this study.General clinical data were retrospectively collected from medical records, encompassingclinical manifestations, diagnostic and therapeutic interventions. A systematic literature review about the management of OSCSTs were performed. Among 14 female patients with OSCSTs, age ranged from 12\u00a0to\u00a069\u00a0years (mean \u00b1 SD: 34.4 \u00b1 20.1 years), with symptom duration prior to diagnosis spanning 1-6 years (2.3 \u00b1 1.4 years). Adolescent and reproductive-aged patients (n\u00a0=\u00a010) universally exhibited oligomenorrhea/amenorrhea with virilization, while postmenopausal patients (n = 4) presented with virilization alone. Preoperative testosterone levels were markedly elevated in all these patients (range 3.90-119.6\u00a0nmol/L; normal: 0.2-2.6). Imaging evaluation revealed ovarian masses on ultrasound in 78.6% (11/14) of cases. After complete tumors resection, testosterone reduced significantly to 0-6.51 nmol/L within 48 hours with complete resolution of\u00a0hyperandrogenism symptoms. Adjuvant chemotherapy was administered in two patients with moderately/poorly differentiated Sertoli-Leydig cell tumors (Ki67 >30%). At one-month follow-up, testosterone normalized (0.5-2.6\u00a0nmol/L) in all patients with concomitant resolution of menstrual irregularities and improvement in virilizing symptoms. OSCSTs are rare but clinically significant causes of\u00a0hyperandrogenism, characterized by symptoms of HA such as oligomenorrhea, acne, hirsutism, and clitoromegaly. It has always been misdiagnosed due to\u00a0overlapping features with PCOS and adrenal disorders. Early identification and complete surgical resection are critical for biochemical remission and symptom resolution.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41337645/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D28",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID41331233",
+      "title": "Menopause and Common Dermatoses: A Systematic Review.",
+      "text": "Menopause is a universal physiological transition, marked by a decline in estrogen, which has important effects on skin and mucosal health. The impact of menopause and menopausal hormone therapy (MHT) on chronic dermatoses remains incompletely defined. The aim was to investigate the relationship between menopause, MHT, and common dermatological conditions. PubMed, Embase, and Web of Science were searched from inception to September 2024 in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Eligible studies evaluated menopause or MHT in relation to alopecia, psoriasis, acne, rosacea, melasma, and hidradenitis suppurativa (HS). Investigational cohorts largely consisted of menopausal women, although participant characteristics varied. Data on study design, population, hormonal status, and dermatological outcomes were extracted and synthesized. A total of 40 studies met inclusion criteria. Alopecia, particularly frontal fibrosing alopecia (FFA) and female pattern hair loss (FPHL), showed the strongest postmenopausal associations, with most cases presenting after menopause and earlier or surgical menopause conferring greater risk. Psoriasis frequently persisted or worsened after menopause, though objective assessments are limited. Acne and rosacea generally improved, whereas melasma showed mixed outcomes, including greater extra-facial involvement post menopause. HS responses to menopause were inconsistent. MHT was linked to increased risk of FFA and rosacea, whereas findings for other dermatoses were more variable or absent. Most of the studies involved MHT formulations that are less commonly used in current clinical practice. Menopause influences the onset and course of several chronic dermatoses, while data on MHT remain more limited and inconsistent. Dermatologists should consider menopausal status and hormone therapy exposure when evaluating skin disease. Longitudinal, dermatology-focused studies-particularly those integrating diverse populations and updated hormone therapies-are needed to inform individualized care.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41331233/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D106",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID41296583",
+      "title": "Efficacy & safety of sodium-glucose cotransporter-2 inhibitors in polycystic ovary syndrome: A meta-analysis with trial sequential analysis.",
+      "text": "Background & objectives Polycystic ovary syndrome (PCOS) is a common endocrinopathy characterised by menstrual irregularities, hirsutism, acne, obesity, infertility, and other features adversely affecting the quality of life of women of childbearing age. Besides lifestyle modifications, limited pharmacological treatments have been used to manage the symptoms of PCOS. This meta-analysis was conducted to evaluate a novel pharmacological approach, sodium glucose cotransporter-2 inhibitors (SGLT2i), in PCOS. Methods Electronic databases were searched systematically for literature published before November 2024. Randomised controlled trials (RCTs) evaluating SGLT2i alone or in combination in women diagnosed with PCOS, based on the Rotterdam criteria, were included in the meta-analysis. Preclinical studies, and non-randomised trials, were excluded. Quality of studies was assessed using RoB 2.0. Meta-analysis was performed for change in anthropometry, reproductive hormone levels, glycaemic and cardiometabolic indices. Adverse events (AEs) were also compared between the SGLT2i and control groups, using RevMan 5.4.1. Mean difference using the inverse-variance method and 95% confidence interval was used as a measure of effect size of continuous variables, while odds ratio (OR)using the Mantel-Haenszel method (M-H) with 95% confidence interval was calculated to analyse dichotomous variables. P value less than 0.5 was the cut-off for significance. Trial sequential analysis (TSA) was conducted to test the conventional and required information size (RIS) boundaries. The meta-analysis was registered in PROSPERO (CRD42024608736). Results Five RCTs with 'low' risk of bias, including 205 patients with PCOS, receiving SGLT2i (empagliflozin, licogliflozin, dapagliflozin, and canagliflozin alone and in combination with metformin) or control (placebo, metformin, or exenatide) were evaluated in the meta-analysis. SGLT2i significantly reduced total testosterone (mean difference=-0.10 [-0.19, -0.01], P=0.03), free androgen index (mean difference = -0.61 [-1.16, -0.05], P=0.03), and homeostasis model assessment-estimated insulin resistance (HOMA-IR) (mean difference = -0.38 [-0.75, -0.02], P=0.04). Total cholesterol (mean difference=0.13 [0.01, 0.26], P=0.04) and low-density cholesterol (MD=0.18 [0.06, 0.31], P=0.003) increased with SGLT2i use. Genitourinary AEs were more common in the SGLT2i group (OR=10.88 [1.33, 89.14], P= 0.03). On performing TSA, the Z-curve did not cross the RIS boundary of 80 per cent power. Interpretation & conclusions The findings of this meta-analysis suggest that SGLT2i improves the hormonal and glycaemic indices in patients with PCOS. It can prove to be a safe alternative in patients not responding to or intolerant of standard pharmacological treatments.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41296583/",
+      "topic": "pubmed",
+      "evidence_level": "meta_analysis",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D28",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    },
+    {
+      "id": "PMID41277478",
+      "title": "Short-Term, Low-Dose Spironolactone for Treatment of Hyperandrogenic Symptoms of Polycystic Ovary Syndrome-A Systematic Review.",
+      "text": "Polycystic ovary syndrome (PCOS) is a common condition, that manifests as menstrual irregularities, subfertility, or symptoms of hyperandrogenism - including hirsutism, adult acne, and alopecia. Current pharmacological treatment of the hyperandrogenic symptoms includes the combined oral contraceptive pill. However, there are multiple contraindications and side-effects, which limit their use. Anti-androgens, such as spironolactone, are commonly prescribed off-label but its efficacy in PCOS is uncertain. This review aims to evaluate the efficacy and safety of spironolactone, when compared to other nonhormonal medications in the management of PCOS hyperandrogenic symptoms. Comprehensive literature searches were conducted across MEDLINE, EMBASES, PUBMED and SCOPUS. RCTs published in English assessing the use of spironolactone for hyperandrogenism in PCOS were included. The quality of papers was assessed using Cochrane RoB 2.0 tool. Meta-analysis was conducted using a random-effects model, reporting as standardised mean differences and 95% confidence intervals. Of 3378 studies identified, five open-label RCTs met the inclusion criteria, three of which were included in the meta-analysis. Spironolactone, monotherapy or combination with metformin, showed no statistically significant difference in reducing Ferriman-Gallwey scores, total testosterone levels or BMI compared to metformin monotherapy. Side effects of spironolactone included menstrual irregularities, polyuria, and gastrointestinal symptoms. Current evidence does not show any significant difference in the use of spironolactone when compared to metformin. Given its widespread use and limited safety concerns, spironolactone remains an off-label option, especially for those unable to take hormonal contraceptives. However, larger, better quality studies are needed to establish its efficacy in PCOS management.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41277478/",
+      "topic": "pubmed",
+      "evidence_level": "systematic_review",
+      "consistency": {
+        "status": "topic_match",
+        "vetted_id": "D04",
+        "note": "Shares significant terms with a vetted passage \u2014 not a claim that the two agree. Review both before citing."
+      }
+    }
+  ]
+}
